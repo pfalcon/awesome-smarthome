@@ -1,3 +1,10 @@
+# Notable OpenSource Projects
+
+* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 9647, Language: Python
+* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3460, Language: Java
+* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 874, Language: C++
+* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 211, Language: C#
+
 # Notable Commercial Devices
 
 ## SmartThings
