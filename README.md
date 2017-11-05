@@ -5,6 +5,7 @@
 * [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 892, Language: C++
 * [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 492, Language: JavaScript
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 214, Language: C#
+* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 205, Language: C
 
 # Notable Commercial Devices
 
