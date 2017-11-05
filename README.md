@@ -19,3 +19,10 @@
   refs: [(1)](http://linuxgizmos.com/samsung-smartthings-pickup-could-mean-new-role-for-tizen/)
 * 2015-01-05 [Hub 2 runs Linux](http://blog.smartthings.com/news/smartthings-updates/new-hub-sensors-optional-services-integrations/)
   refs: [(1)](http://linuxgizmos.com/gen-2-smartthings-hub-migrates-to-linux/)
+
+
+## Vera
+
+Since at least 2008.
+
+Uses Lua, open development support, community ecosystem.
