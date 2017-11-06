@@ -55,6 +55,11 @@ Uses Lua, open development support, community ecosystem.
 
 # Related/useful Services and Software
 
+## HA Utilities/Tools
+
+* [HA-Bridge](https://github.com/bwssytems/ha-bridge) - Java app that emulates a Phillips Hue bridge allowing you to connect Harmony, Vera, Nest and API endpoints
+
+
 ## Floor Plans
 
 * [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - Open Source
