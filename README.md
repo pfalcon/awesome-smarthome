@@ -14,7 +14,7 @@ at least 200 stars.
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 214, Language: C#
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 205, Language: C
 
-# Notable Commercial Devices
+# Notable Commercial Systems
 
 ## Revolv
 
