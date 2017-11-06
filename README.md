@@ -35,3 +35,13 @@ https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_device
 Since at least 2008.
 
 Uses Lua, open development support, community ecosystem.
+
+
+# Related/useful Services and Software
+
+## Floor Plans
+
+* [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - Open Source
+  desktop application (Java)
+* https://planner5d.com - Online editor, allows to save/import plan in JSON
+  format. Image renders are freemium.
