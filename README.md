@@ -1,5 +1,9 @@
 # Notable OpenSource Projects
 
+Complete, self-hosted home automation systems with frontend, suitable for
+end users. At least a year in active development, at least 200 commits,
+at least 200 stars.
+
 * [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 10004, Language: Python
 * [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3463, Language: Java
 * [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 892, Language: C++
