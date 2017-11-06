@@ -34,6 +34,10 @@ https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_device
 * 2015-01-05 [Hub 2 runs Linux](http://blog.smartthings.com/news/smartthings-updates/new-hub-sensors-optional-services-integrations/)
   refs: [(1)](http://linuxgizmos.com/gen-2-smartthings-hub-migrates-to-linux/)
 
+Uses Groovy for (custom) components.
+
+* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com, Forks: 27667, Language: Groovy
+
 
 ## Vera
 
