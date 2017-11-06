@@ -46,6 +46,13 @@ Since at least 2008.
 Uses Lua, open development support, community ecosystem.
 
 
+## Wink
+
+* Founded in 2014 as a spin-off from invention incubator Quirky.
+* After Quirky went through bankruptcy proceedings, it sold Wink to Flex in 2015.
+* In July 2017, Flex sold Wink to i.am+ for $38.7M.
+
+
 # Related/useful Services and Software
 
 ## Floor Plans
