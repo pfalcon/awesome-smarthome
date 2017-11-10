@@ -55,6 +55,17 @@ Uses Lua, open development support, community ecosystem.
 
 # Related/useful Services and Software
 
+## Dashboards
+
+One of the basic tasks of Home Automation is visualization and control.
+Dashboards is a basic way to do that. Dashboard is usually included into
+"full stack" HA systems, but what if you don't like it or need a custom
+one? Note that majority of systems below offer visualization only (no
+control).
+
+* https://github.com/Shopify/dashing - Ruby, 11021 stars, no longer maintained
+* https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 403 stars
+
 ## Floor Plans
 
 * [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - Open Source
