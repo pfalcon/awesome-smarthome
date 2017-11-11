@@ -65,6 +65,8 @@ control).
 
 * https://github.com/Shopify/dashing - Ruby, 11021 stars, no longer maintained
 * https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 403 stars
+* https://github.com/allegro/tipboard - Python, 638 stars
+* https://github.com/Freeboard/freeboard - JavaScript, 4766 stars
 * Grid Layouts
   * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
   * https://github.com/haltu/muuri - No jQuery dep, no item resize (1211 stars)
