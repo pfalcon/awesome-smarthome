@@ -7,7 +7,7 @@ at least 200 stars.
 * [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 10004, Language: Python
 * [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3463, Language: Java
 * [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 892, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/fr/, Stars: 629, Language: JavaScript
+* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 629, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 492, Language: JavaScript
 * [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 240, Language: PHP
 * [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 236, Language: Java
@@ -59,8 +59,27 @@ Uses Lua, open development support, community ecosystem.
 
 * [HA-Bridge](https://github.com/bwssytems/ha-bridge) - Java app that emulates a Phillips Hue bridge allowing you to connect Harmony, Vera, Nest and API endpoints
 
+## Dashboards
+
+One of the basic tasks of Home Automation is visualization and control.
+Dashboards is a basic way to do that. Dashboard is usually included into
+"full stack" HA systems, but what if you don't like it or need a custom
+one? Note that majority of systems below offer visualization only (no
+control).
+
+* https://github.com/Shopify/dashing - Ruby, 11021 stars, no longer maintained
+* https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 403 stars
+* https://github.com/allegro/tipboard - Python, 638 stars
+* https://github.com/Freeboard/freeboard - JavaScript, 4766 stars
+* Grid Layouts
+  * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
+  * https://github.com/haltu/muuri - No jQuery dep, no item resize (1211 stars)
+  * https://github.com/hootsuite/grid (3291 stars)
 
 ## Floor Plans
+
+A step above and beyond dashboards is vusualizing what happens where on the
+actual floorplan of your home.
 
 * [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - Open Source
   desktop application (Java)
