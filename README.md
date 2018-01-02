@@ -4,7 +4,7 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 11013, Language: Python
+* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 11201, Language: Python
 * [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3476, Language: Java
 * [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 978, Language: C++
 * [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 687, Language: JavaScript
