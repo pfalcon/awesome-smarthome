@@ -14,6 +14,10 @@ at least 200 stars.
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 218, Language: C#
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 210, Language: C
 
+# Need Inspiration?
+* [CCostan Smart Home](https://github.com/CCOSTAN/Home-AssistantConfig#logo) Site: https://www.vcloudinfo.com, <a href="https://github.com/CCOSTAN/Home-AssistantConfig/stargazers"><img src="https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>, Language: YAML 
+
+
 # Notable Commercial Systems
 
 ## Revolv
