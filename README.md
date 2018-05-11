@@ -4,15 +4,15 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 11201, Language: Python
-* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3476, Language: Java
-* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 978, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 687, Language: JavaScript
-* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 499, Language: JavaScript
-* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 246, Language: PHP
-* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 247, Language: Java
-* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 218, Language: C#
-* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 210, Language: C
+* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 14202, Language: Python
+* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3474, Language: Java
+* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 1314, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 780, Language: JavaScript
+* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 516, Language: JavaScript
+* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 276, Language: PHP
+* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 253, Language: Java
+* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 234, Language: C#
+* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 226, Language: C
 
 # Notable Commercial Systems
 
