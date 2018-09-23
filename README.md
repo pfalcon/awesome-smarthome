@@ -10,6 +10,7 @@ at least 200 stars.
 * [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 876, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 527, Language: JavaScript
 * [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 288, Language: PHP
+* [Smart Home](https://github.com/shirshak55/smart-home) Site: https://github.com/shirshak55/smart-home, Language: PHP
 * [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 258, Language: Java
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 252, Language: C#
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 229, Language: C
