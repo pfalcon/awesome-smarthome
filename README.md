@@ -81,3 +81,7 @@ actual floorplan of your home.
   desktop application (Java)
 * https://planner5d.com - Online editor, allows to save/import plan in JSON
   format. Image renders are freemium.
+
+
+---
+*Compiled, maintained, content (c) 2017-2018 Paul Sokolovsky*
