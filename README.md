@@ -13,6 +13,8 @@ at least 200 stars.
 * [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 258, Language: Java
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 252, Language: C#
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 229, Language: C
+* [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 17717, Language: Perl
+* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 196, Language: Perl
 
 # Notable Commercial Systems
 
