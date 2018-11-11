@@ -60,6 +60,31 @@ Uses Lua, open development support, community ecosystem.
 * In July 2017, Flex sold Wink to i.am+ for $38.7M.
 
 
+# Home Automation Services
+
+## Voice Assistants
+
+Previously, government and mob had to break into your house to install bugs.
+Now you can pay a small amount of money and install yourself bugs which allow
+3rd parties to eavesdrop on you.
+
+* Apple Siri
+* Amazon Alexa
+* Google Assistant
+
+## Video Surveillance
+
+Many services tout "P2P" in video surveillance, to allow your smartphone to
+connect to your camera - when you're in your home or on another side of the
+world. That's oxymoron of course, there's nothing "point-to-point" in how
+it's implemented. Both your camera and smarphone connect to faraway 3rd-party
+cloud server (this happens even if both in the same home network, 5 meters
+one from another). All video goes via (and thus to) 3rd party of course.
+
+[Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware)) was/is a botnet
+mostly consisting of video cameras controlled by 3rd party.
+
+
 # Related/useful Services and Software
 
 ## Dashboards
