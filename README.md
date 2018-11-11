@@ -4,14 +4,14 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 16075, Language: Python
+* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 18336, Language: Python
 * [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3488, Language: Java
-* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 1520, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 876, Language: JavaScript
-* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 527, Language: JavaScript
-* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 288, Language: PHP
-* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 258, Language: Java
-* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 252, Language: C#
+* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 1728, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 973, Language: JavaScript
+* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 531, Language: JavaScript
+* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 301, Language: PHP
+* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 267, Language: Java
+* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 259, Language: C#
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 234, Language: C
 * [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 232, Language: PHP
 * [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 17717, Language: Perl
