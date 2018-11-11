@@ -72,6 +72,17 @@ Now you can pay a small amount of money and install yourself bugs which allow
 * Amazon Alexa
 * Google Assistant
 
+OpenSource services promising no eavesdropping (please keep in mind that for
+some of these projects, "OpenSource" is just a marketing bait):
+
+* [Mycroft.AI](https://mycroft.ai/), code: https://github.com/MycroftAI
+* [Snips](https://www.snips.ai/), code: https://github.com/snipsco/
+  * Some links point to https://github.com/snipsco/snips-platform , which isn't available.
+    https://github.com/snipsco/snips-issues/issues/25
+  * Posts: [1](https://medium.com/snips-ai/snips-air-a-private-by-design-open-source-decentralized-voice-assistant-a31e27fb799b)
+* [Jasper](https://jasperproject.github.io/), code: https://github.com/jasperproject
+* [Open Assistant](https://openassistant.org/), code: https://github.com/openassistant
+
 ## Video Surveillance
 
 Many services tout "P2P" in video surveillance, to allow your smartphone to
