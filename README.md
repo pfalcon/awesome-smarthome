@@ -118,7 +118,7 @@ control).
 
 ## Floor Plans
 
-A step above and beyond dashboards is vusualizing what happens where on the
+A step above and beyond dashboards is visualizing what happens where on the
 actual floorplan of your home.
 
 * [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - Open Source
