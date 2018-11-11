@@ -107,14 +107,15 @@ Dashboards is a basic way to do that. Dashboard is usually included into
 one? Note that majority of systems below offer visualization only (no
 control).
 
-* https://github.com/Shopify/dashing - Ruby, 11021 stars, no longer maintained
-* https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 403 stars
-* https://github.com/allegro/tipboard - Python, 638 stars
-* https://github.com/Freeboard/freeboard - JavaScript, 4766 stars
+* https://github.com/Shopify/dashing - Ruby, 11128 stars, no longer maintained
+  * https://github.com/Smashing/smashing - maintained fork, 1665 stars
+* https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 416 stars
+* https://github.com/allegro/tipboard - Python, 773 stars
+* https://github.com/Freeboard/freeboard - JavaScript, 5416 stars
 * Grid Layouts
   * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
-  * https://github.com/haltu/muuri - No jQuery dep, no item resize (1211 stars)
-  * https://github.com/hootsuite/grid (3291 stars)
+  * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
+  * https://github.com/hootsuite/grid (3433 stars)
 
 ## Floor Plans
 
