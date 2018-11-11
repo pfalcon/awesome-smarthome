@@ -12,7 +12,8 @@ at least 200 stars.
 * [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 288, Language: PHP
 * [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 258, Language: Java
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 252, Language: C#
-* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 229, Language: C
+* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 234, Language: C
+* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 232, Language: PHP
 * [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 17717, Language: Perl
 * [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 196, Language: Perl
 
