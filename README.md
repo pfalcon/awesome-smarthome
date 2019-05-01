@@ -122,6 +122,7 @@ control).
 A step above and beyond dashboards is visualizing what happens where on the
 actual floorplan of your home.
 
+* [ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplans for Home Assistant
 * [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - Open Source
   desktop application (Java)
 * https://planner5d.com - Online editor, allows to save/import plan in JSON
