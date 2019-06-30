@@ -20,6 +20,8 @@ It uses technologies from electronics, computer science, automation and telecomm
   - [Video Surveillance](#video-surveillance)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Other Awesome Lists](#other-awesome-lists)
+- [Contribute](#contribute)
+- [Credits](#credits)
 - [License](#license)
 
 ## Central Hub
@@ -119,6 +121,14 @@ actual floorplan of your home.
   ![stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social)
 * [The Warren](https://github.com/torchhound/warren)
   ![stars](https://img.shields.io/github/stars/torchhound/warren.svg?style=social)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## Credits
+
+See [AUTHORS](AUTHORS.md)
 
 ## License
 
