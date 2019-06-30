@@ -72,17 +72,13 @@ end users.
 * [Apple Siri](https://www.apple.com/siri/)
 * [Amazon Alexa](https://developer.amazon.com/en/alexa)
 * [Google Assistant](https://assistant.google.com/)
-
-OpenSource services *promising* no eavesdropping:
-
+* [Jasper](https://jasperproject.github.io/), code: https://github.com/jasperproject
+  ![stars](https://img.shields.io/github/stars/jasperproject/jasper.svg?style=social)
 * [Mycroft.AI](https://mycroft.ai/), code: https://github.com/MycroftAI
 * [Snips](https://www.snips.ai/), code: https://github.com/snipsco/
   * Some links point to https://github.com/snipsco/snips-platform , which isn't available.
     https://github.com/snipsco/snips-issues/issues/25
   * Posts: [1](https://medium.com/snips-ai/snips-air-a-private-by-design-open-source-decentralized-voice-assistant-a31e27fb799b)
-* [Jasper](https://jasperproject.github.io/), code: https://github.com/jasperproject
-  ![stars](https://img.shields.io/github/stars/jasperproject/jasper.svg?style=social)
-* [Open Assistant](https://openassistant.org/), code: https://github.com/openassistant
 
 ## Dashboards and Monitoring
 
@@ -92,18 +88,10 @@ A step above and beyond dashboards is visualizing what happens where on the
 actual floorplan of your home.
 
 * [ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplans for Home Assistant
-* [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - Open Source
-  desktop application
-  ![Java Language][java-badge]
-* https://planner5d.com - Online editor, allows to save/import plan in JSON
-  format. Image renders are freemium.
 
 ## Smart Devices
 
 ### Video Surveillance
-
-[Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware)) was/is a botnet
-mostly consisting of video cameras controlled by 3rd party.
 
 ## Related awesome lists
 
