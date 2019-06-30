@@ -67,7 +67,9 @@ https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_device
 
 Uses Groovy language for (custom) components.
 
-* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com, Forks: 27667, Language: Groovy
+* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com
+  ![stars](https://img.shields.io/github/stars/SmartThingsCommunity/SmartThingsPublic.svg?style=social)
+  ![Groovy Language][groovy-badge]
 
 
 ## Vera
@@ -171,7 +173,7 @@ actual floorplan of your home.
 [c-badge]: https://img.shields.io/badge/-C-blue.svg?style=flat&logo=c&colorA=grey
 [cplusplus-badge]: https://img.shields.io/badge/-C%2B%2B-blue.svg?style=flat&logo=cplusplus&colorA=grey
 [csharp-badge]: https://img.shields.io/badge/-C%23-blue.svg?style=flat&logo=csharp&colorA=grey
-[csharp-badge]: https://img.shields.io/badge/-Groovy-blue.svg?style=flat&logo=groovy&colorA=grey
+[groovy-badge]: https://img.shields.io/badge/-Groovy-blue.svg?style=flat&logo=groovy&colorA=grey
 [java-badge]: https://img.shields.io/badge/-Java-blue.svg?style=flat&logo=java&colorA=grey
 [javascript-badge]: https://img.shields.io/badge/-Js-yellow.svg?style=flat&logo=javascript&colorA=grey
 [jquery-badge]: https://img.shields.io/badge/-JQuery-blue.svg?style=flat&logo=jquery&colorA=grey
