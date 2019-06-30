@@ -27,41 +27,42 @@ It uses technologies from electronics, computer science, automation and telecomm
 Complete, self-hosted home automation systems with frontend, suitable for
 end users.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant)
-  ![stars](https://img.shields.io/github/stars/home/home.svg?style=social)
-  ![Python Language][python-badge]
-* [openHAB](https://github.com/openhab)
-  ![stars](https://img.shields.io/github/stars/openhab/openhab-distro.svg?style=social)
-  ![Java Language][java-badge]
 * [Domoticz](https://github.com/domoticz/domoticz)
   ![stars](https://img.shields.io/github/stars/domoticz/domoticz.svg?style=social)
   ![C++ Language][cplusplus-badge]
-* [Gladys](https://github.com/GladysProject/Gladys)
-  ![stars](https://img.shields.io/github/stars/GladysProject/Gladys.svg?style=social)
-  ![JS Language][javascript-badge]
-* [pimatic](https://github.com/pimatic/pimatic)
-  ![stars](https://img.shields.io/github/stars/pimatic/pimatic.svg?style=social)
-  ![JS Language][javascript-badge]
-* [MajorDoMo](https://github.com/sergejey/majordomo)
-  ![stars](https://img.shields.io/github/stars/sergejey/majordomo.svg?style=social)
-  ![PHP Language][php-badge]
+  ![Java Language][java-badge]
+* [FHEM](https://github.com/mhop/fhem-mirror)
+  ![Perl Language][perl-badge]
 * [Freedomotic](https://github.com/freedomotic/freedomotic)
   ![stars](https://img.shields.io/github/stars/freedomotic/freedomotic.svg?style=social)
   ![Java Language][java-badge]
+* [Gladys](https://github.com/GladysProject/Gladys)
+  ![stars](https://img.shields.io/github/stars/GladysProject/Gladys.svg?style=social)
+  ![JS Language][javascript-badge]
+* [Home Assistant](https://github.com/home-assistant/home-assistant)
+  ![stars](https://img.shields.io/github/stars/home/home.svg?style=social)
+  ![Python Language][python-badge]
 * [HomeGenie](https://github.com/genielabs/HomeGenie/)
   ![stars](https://img.shields.io/github/stars/genielabs/HomeGenie.svg?style=social)
   ![C# Language][csharp-badge]
-* [pilight](https://github.com/pilight/pilight)
-  ![stars](https://img.shields.io/github/stars/pilight/pilight.svg?style=social)
-  ![C Language][c-badge]
 * [Jeedom](https://github.com/jeedom/core)
   ![stars](https://img.shields.io/github/stars/jeedom/core.svg?style=social)
   ![PHP Language][php-badge]
-* [FHEM](https://github.com/mhop/fhem-mirror)
-  ![Perl Language][perl-badge]
+* [MajorDoMo](https://github.com/sergejey/majordomo)
+  ![stars](https://img.shields.io/github/stars/sergejey/majordomo.svg?style=social)
+  ![PHP Language][php-badge]
 * [MisterHouse](https://github.com/hollie/misterhouse)
   ![stars](https://img.shields.io/github/stars/hollie/misterhouse.svg?style=social)
   ![Perl Language][perl-badge]
+* [openHAB](https://github.com/openhab)
+  ![stars](https://img.shields.io/github/stars/openhab/openhab-distro.svg?style=social)
+  ![Java Language][java-badge]
+* [pilight](https://github.com/pilight/pilight)
+  ![stars](https://img.shields.io/github/stars/pilight/pilight.svg?style=social)
+  ![C Language][c-badge]
+* [pimatic](https://github.com/pimatic/pimatic)
+  ![stars](https://img.shields.io/github/stars/pimatic/pimatic.svg?style=social)
+  ![JS Language][javascript-badge]
 * [Revolv](https://revolv.com/) - Acquired by [Nest](https://nest.com/)
 * [SmartThings](https://www.smartthings.com/) - Acquired by Samsung, with [open source](https://github.com/SmartThingsCommunity/SmartThingsPublic) components
 * [Vera](https://getvera.com/)
@@ -69,8 +70,8 @@ end users.
 
 ## Voice Assistants
 
-* [Apple Siri](https://www.apple.com/siri/)
 * [Amazon Alexa](https://developer.amazon.com/en/alexa)
+* [Apple Siri](https://www.apple.com/siri/)
 * [Google Assistant](https://assistant.google.com/)
 * [Jasper](https://github.com/jasperproject)
   ![stars](https://img.shields.io/github/stars/jasperproject/jasper.svg?style=social)
