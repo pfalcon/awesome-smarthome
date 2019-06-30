@@ -64,16 +64,12 @@ Uses Lua, open development support, community ecosystem.
 
 ## Voice Assistants
 
-Previously, government and mob had to break into your house to install bugs.
-Now you can pay a small amount of money and install yourself bugs which allow
-3rd parties to eavesdrop on you.
 
-* Apple Siri
-* Amazon Alexa
-* Google Assistant
+* [Apple Siri](https://www.apple.com/siri/)
+* [Amazon Alexa](https://developer.amazon.com/en/alexa)
+* [Google Assistant](https://assistant.google.com/)
 
-OpenSource services promising no eavesdropping (please keep in mind that for
-some of these projects, "OpenSource" is just a marketing bait):
+OpenSource services *promising* no eavesdropping:
 
 * [Mycroft.AI](https://mycroft.ai/), code: https://github.com/MycroftAI
 * [Snips](https://www.snips.ai/), code: https://github.com/snipsco/
@@ -84,13 +80,6 @@ some of these projects, "OpenSource" is just a marketing bait):
 * [Open Assistant](https://openassistant.org/), code: https://github.com/openassistant
 
 ## Video Surveillance
-
-Many services tout "P2P" in video surveillance, to allow your smartphone to
-connect to your camera - when you're in your home or on another side of the
-world. That's oxymoron of course, there's nothing "point-to-point" in how
-it's implemented. Both your camera and smarphone connect to faraway 3rd-party
-cloud server (this happens even if both in the same home network, 5 meters
-one from another). All video goes via (and thus to) 3rd party of course.
 
 [Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware)) was/is a botnet
 mostly consisting of video cameras controlled by 3rd party.
@@ -103,8 +92,7 @@ mostly consisting of video cameras controlled by 3rd party.
 One of the basic tasks of Home Automation is visualization and control.
 Dashboards is a basic way to do that. Dashboard is usually included into
 "full stack" HA systems, but what if you don't like it or need a custom
-one? Note that majority of systems below offer visualization only (no
-control).
+one?
 
 * https://github.com/Shopify/dashing - Ruby, 11128 stars, no longer maintained
   * https://github.com/Smashing/smashing - maintained fork, 1665 stars
