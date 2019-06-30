@@ -25,7 +25,6 @@ Related awesome lists:
 
 * [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
 
-
 ## Commercial Systems
 
 ### Revolv
@@ -35,7 +34,6 @@ Was a $300 hub, offering a "lifetime subscription".
 Acquired by Nest (Google subsidiary) in October 2014. In April 2016, Nest
 announced that Revolv Hub will cease to operate on May 15, 2016.
 https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_devices
-
 
 ### SmartThings
 
@@ -50,13 +48,11 @@ Uses Groovy language for (custom) components.
 
 * [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com, Forks: 27667, Language: Groovy
 
-
 ### Vera
 
 Since at least 2008.
 
 Uses Lua, open development support, community ecosystem.
-
 
 ### Wink
 
@@ -64,21 +60,15 @@ Uses Lua, open development support, community ecosystem.
 * After Quirky went through bankruptcy proceedings, it sold Wink to Flex in 2015.
 * In July 2017, Flex sold Wink to i.am+ for $38.7M.
 
-
 ## Home Automation Services
 
 ### Voice/Personal Assistants
 
-Previously, government and mob had to break into your house to install bugs.
-Now you can pay a small amount of money and install yourself bugs which allow
-3rd parties to eavesdrop on you.
+* [Apple Siri](https://www.apple.com/siri/)
+* [Amazon Alexa](https://developer.amazon.com/en/alexa)
+* [Google Assistant](https://assistant.google.com/)
 
-* Apple Siri
-* Amazon Alexa
-* Google Assistant
-
-OpenSource services promising no eavesdropping (please keep in mind that for
-some of these projects, "OpenSource" is just a marketing bait):
+OpenSource services *promising* no eavesdropping:
 
 * [Mycroft.AI](https://mycroft.ai/), code: https://github.com/MycroftAI
 * [Snips](https://www.snips.ai/), code: https://github.com/snipsco/
@@ -92,16 +82,8 @@ some of these projects, "OpenSource" is just a marketing bait):
 
 ### Video Surveillance
 
-Many services tout "P2P" in video surveillance, to allow your smartphone to
-connect to your camera - when you're in your home or on another side of the
-world. That's oxymoron of course, there's nothing "point-to-point" in how
-it's implemented. Both your camera and smarphone connect to faraway 3rd-party
-cloud server (this happens even if both in the same home network, 5 meters
-one from another). All video goes via (and thus to) 3rd party of course.
-
 [Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware)) was/is a botnet
 mostly consisting of video cameras controlled by 3rd party.
-
 
 ## Related/useful Services and Software
 
@@ -110,8 +92,7 @@ mostly consisting of video cameras controlled by 3rd party.
 One of the basic tasks of Home Automation is visualization and control.
 Dashboards is a basic way to do that. Dashboard is usually included into
 "full stack" HA systems, but what if you don't like it or need a custom
-one? Note that majority of systems below offer visualization only (no
-control).
+one?
 
 * https://github.com/Shopify/dashing - Ruby, 11128 stars, no longer maintained
   * https://github.com/Smashing/smashing - maintained fork, 1665 stars
