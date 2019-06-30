@@ -9,18 +9,29 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 30551, Language: Python
-* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3478, Language: Java
-* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 2386, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 1308, Language: JavaScript
-* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 569, Language: JavaScript
-* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 329, Language: PHP
-* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 313, Language: Java
-* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 297, Language: C#
-* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 257, Language: C
-* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 292, Language: PHP
-* [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 20813, Language: Perl
-* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 216, Language: Perl
+* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/,
+  ![stars](https://img.shields.io/github/stars/home-assistant/home-assitant.svg?style=social), Language: Python
+* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/,
+  ![stars](https://img.shields.io/github/stars/openhab/openhab-distro.svg?style=social), Language: Java
+* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/
+  ![stars](https://img.shields.io/github/stars/domoticz/domoticz.svg?style=social), Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/,
+  ![stars](https://img.shields.io/github/stars/GladysProject/Gladys.svg?style=social), Language: JavaScript
+* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/,
+  ![stars](https://img.shields.io/github/stars/pimatic/pimatic.svg?style=social), Language: JavaScript
+* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/,
+  ![stars](https://img.shields.io/github/stars/sergejey/majordomo.svg?style=social), Language: PHP
+* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/,
+  ![stars](https://img.shields.io/github/stars/freedomotic/freedomotic.svg?style=social), Language: Java
+* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/,
+  ![stars](https://img.shields.io/github/stars/genielabs/HomeGenie.svg?style=social), Language: C#
+* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/,
+  ![stars](https://img.shields.io/github/stars/pilight/pilight.svg?style=social), Language: C
+* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/,
+  ![stars](https://img.shields.io/github/stars/jeedom/core.svg?style=social), Language: PHP
+* [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 19211, Language: Perl
+* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/,
+  ![stars](https://img.shields.io/github/stars/hollie/misterhouse.svg?style=social), Language: Perl
 
 Related awesome lists:
 
@@ -114,15 +125,23 @@ Dashboards is a basic way to do that. Dashboard is usually included into
 one? Note that majority of systems below offer visualization only (no
 control).
 
-* https://github.com/Shopify/dashing - Ruby, 11128 stars, no longer maintained
-  * https://github.com/Smashing/smashing - maintained fork, 1665 stars
-* https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 416 stars
-* https://github.com/allegro/tipboard - Python, 773 stars
-* https://github.com/Freeboard/freeboard - JavaScript, 5416 stars
+* https://github.com/Shopify/dashing - Ruby,
+  ![stars](https://img.shields.io/github/stars/Shopify/dashing.svg?style=social), no longer maintained
+  * https://github.com/Smashing/smashing - maintained fork,
+    ![stars](https://img.shields.io/github/stars/Smashing/smashing.svg?style=social)
+* https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 
+  ![stars](https://img.shields.io/github/stars/evolvedlight/pydashie.svg?style=social)
+* https://github.com/allegro/tipboard - Python,
+  ![stars](https://img.shields.io/github/stars/allegro/tipboard.svg?style=social)
+* https://github.com/Freeboard/freeboard - JavaScript,
+  ![stars](https://img.shields.io/github/stars/Freeboard/freeboard.svg?style=social)
 * Grid Layouts
-  * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
-  * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
-  * https://github.com/hootsuite/grid (3433 stars)
+  * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin
+    ![stars](https://img.shields.io/github/stars/ducksboard/gridster.svg?style=socia)
+  * https://github.com/haltu/muuri - No jQuery dep, no item resize
+    ![stars](https://img.shields.io/github/stars/haltu/muuri.svg?style=social)
+  * https://github.com/hootsuite/grid
+    ![stars](https://img.shields.io/github/stars/hootsuite/grid.svg?style=social)
 
 ### Floor Plans
 
