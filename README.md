@@ -27,58 +27,55 @@ It uses technologies from electronics, computer science, automation and telecomm
 Complete, self-hosted home automation systems with frontend, suitable for
 end users.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/,
+* [Home Assistant](https://github.com/home-assistant/home-assistant)
   ![stars](https://img.shields.io/github/stars/home/home.svg?style=social)
   ![Python Language][python-badge]
-* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/,
+* [openHAB](https://github.com/openhab)
   ![stars](https://img.shields.io/github/stars/openhab/openhab-distro.svg?style=social)
   ![Java Language][java-badge]
-* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/
+* [Domoticz](https://github.com/domoticz/domoticz)
   ![stars](https://img.shields.io/github/stars/domoticz/domoticz.svg?style=social)
   ![C++ Language][cplusplus-badge]
-* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/,
+* [Gladys](https://github.com/GladysProject/Gladys)
   ![stars](https://img.shields.io/github/stars/GladysProject/Gladys.svg?style=social)
   ![JS Language][javascript-badge]
-* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/,
+* [pimatic](https://github.com/pimatic/pimatic)
   ![stars](https://img.shields.io/github/stars/pimatic/pimatic.svg?style=social)
   ![JS Language][javascript-badge]
-* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/,
+* [MajorDoMo](https://github.com/sergejey/majordomo)
   ![stars](https://img.shields.io/github/stars/sergejey/majordomo.svg?style=social)
   ![PHP Language][php-badge]
-* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/,
+* [Freedomotic](https://github.com/freedomotic/freedomotic)
   ![stars](https://img.shields.io/github/stars/freedomotic/freedomotic.svg?style=social)
   ![Java Language][java-badge]
-* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/,
+* [HomeGenie](https://github.com/genielabs/HomeGenie/)
   ![stars](https://img.shields.io/github/stars/genielabs/HomeGenie.svg?style=social)
   ![C# Language][csharp-badge]
-* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/,
+* [pilight](https://github.com/pilight/pilight)
   ![stars](https://img.shields.io/github/stars/pilight/pilight.svg?style=social)
   ![C Language][c-badge]
-* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/,
+* [Jeedom](https://github.com/jeedom/core)
   ![stars](https://img.shields.io/github/stars/jeedom/core.svg?style=social)
   ![PHP Language][php-badge]
-* [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 19211
+* [FHEM](https://github.com/mhop/fhem-mirror)
   ![Perl Language][perl-badge]
-* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/,
+* [MisterHouse](https://github.com/hollie/misterhouse)
   ![stars](https://img.shields.io/github/stars/hollie/misterhouse.svg?style=social)
   ![Perl Language][perl-badge]
 * [Revolv](https://revolv.com/) - Acquired by [Nest](https://nest.com/)
 * [SmartThings](https://www.smartthings.com/) - Acquired by Samsung, with [open source](https://github.com/SmartThingsCommunity/SmartThingsPublic) components
-* [Vera](https://getvera.com/) - Hub and devices
-* [Wink](https://www.wink.com/) - Central hub
+* [Vera](https://getvera.com/)
+* [Wink](https://www.wink.com/)
 
 ## Voice Assistants
 
 * [Apple Siri](https://www.apple.com/siri/)
 * [Amazon Alexa](https://developer.amazon.com/en/alexa)
 * [Google Assistant](https://assistant.google.com/)
-* [Jasper](https://jasperproject.github.io/), code: https://github.com/jasperproject
+* [Jasper](https://github.com/jasperproject)
   ![stars](https://img.shields.io/github/stars/jasperproject/jasper.svg?style=social)
-* [Mycroft.AI](https://mycroft.ai/), code: https://github.com/MycroftAI
-* [Snips](https://www.snips.ai/), code: https://github.com/snipsco/
-  * Some links point to https://github.com/snipsco/snips-platform , which isn't available.
-    https://github.com/snipsco/snips-issues/issues/25
-  * Posts: [1](https://medium.com/snips-ai/snips-air-a-private-by-design-open-source-decentralized-voice-assistant-a31e27fb799b)
+* [Mycroft.AI](https://github.com/MycroftAI)
+* [Snips](https://github.com/snipsco/)
 
 ## Dashboards and Monitoring
 
