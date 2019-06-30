@@ -1,3 +1,7 @@
+# Awesome SmartHome [![Awesome][awesome-badge]][awesome-link]
+
+> :house: A curated list of awesome tools, resources and other shiny thinks for home automation.
+
 # Notable OpenSource Projects
 
 Complete, self-hosted home automation systems with frontend, suitable for
@@ -131,3 +135,6 @@ actual floorplan of your home.
 
 ---
 *Compiled, maintained, content (c) 2017-2019 Paul Sokolovsky*
+
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-link]: https://github.com/sindresorhus/awesome
