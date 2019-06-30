@@ -128,6 +128,12 @@ actual floorplan of your home.
 * https://planner5d.com - Online editor, allows to save/import plan in JSON
   format. Image renders are freemium.
 
+## License
 
----
-*Compiled, maintained, content (c) 2017-2019 Paul Sokolovsky*
+[![CC0][CC0-badge]][CC0-link]
+
+To the extent possible under law, Paul Sokolovsky has waived all copyright
+and related or neighboring rights to this work. See [LICENSE](LICENSE).
+
+[CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
+[CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
