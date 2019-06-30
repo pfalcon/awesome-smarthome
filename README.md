@@ -2,6 +2,14 @@
 
 > :house: A curated list of awesome tools, resources and other shiny thinks for home automation.
 
+Home automation is the integration of the systems in indoor spaces, to centralize the control and grant autonomy.
+It uses technologies from electronics, computer science, automation and telecommunication on top of the usual systems for:
+- climate
+- security
+- lighting
+- access control
+- entertainment
+
 # Notable OpenSource Projects
 
 Complete, self-hosted home automation systems with frontend, suitable for
