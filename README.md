@@ -10,20 +10,19 @@ It uses technologies from electronics, computer science, automation and telecomm
 - access control
 - entertainment
 
-# Table of Contents
+## Table of Contents
 
-- [OpenSource Projects](#opensource-projects)
-- [Commercial Systems](#commercial-systems)
-- [Home Automation Services](#home-automation-services)
-  - [Voice Assistants](#voice-assistants)
-  - [Video Surveillance](#video-surveillance)
-- [Related/useful Services and Software](#related-useful-services-and-software)
+- [OpenSource Projects](#central-hub)
+- [Voice Assistants](#voice-assistants)
+- [Dashboards and Monitoring](#dashboard-and-monitoring)
   - [Floor Plans](#floor-plans)
-  - [Related awesome lists](#related-awesome-lists)
-  - [Other awesome lists](#other-awesome-lists)
+- [Smart Devices](#smart-devices)
+  - [Video Surveillance](#video-surveillance)
+- [Related Awesome Lists](#related-awesome-lists)
+- [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
-# OpenSource Projects
+## Central Hub
 
 Complete, self-hosted home automation systems with frontend, suitable for
 end users.
@@ -63,15 +62,10 @@ end users.
 * [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/,
   ![stars](https://img.shields.io/github/stars/hollie/misterhouse.svg?style=social)
   ![Perl Language][perl-badge]
-
-# Commercial Systems
-
 * [Revolv](https://revolv.com/) - Acquired by [Nest](https://nest.com/)
 * [SmartThings](https://www.smartthings.com/) - Acquired by Samsung, with [open source](https://github.com/SmartThingsCommunity/SmartThingsPublic) components
 * [Vera](https://getvera.com/) - Hub and devices
 * [Wink](https://www.wink.com/) - Central hub
-
-# Home Automation Services
 
 ## Voice Assistants
 
@@ -90,14 +84,9 @@ OpenSource services *promising* no eavesdropping:
   ![stars](https://img.shields.io/github/stars/jasperproject/jasper.svg?style=social)
 * [Open Assistant](https://openassistant.org/), code: https://github.com/openassistant
 
-## Video Surveillance
+## Dashboards and Monitoring
 
-[Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware)) was/is a botnet
-mostly consisting of video cameras controlled by 3rd party.
-
-# Related/useful Services and Software
-
-## Floor Plans
+### Floor Plans
 
 A step above and beyond dashboards is visualizing what happens where on the
 actual floorplan of your home.
@@ -108,6 +97,13 @@ actual floorplan of your home.
   ![Java Language][java-badge]
 * https://planner5d.com - Online editor, allows to save/import plan in JSON
   format. Image renders are freemium.
+
+## Smart Devices
+
+### Video Surveillance
+
+[Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware)) was/is a botnet
+mostly consisting of video cameras controlled by 3rd party.
 
 ## Related awesome lists
 
@@ -129,7 +125,7 @@ actual floorplan of your home.
 * [The Warren](https://github.com/torchhound/warren)
   ![stars](https://img.shields.io/github/stars/torchhound/warren.svg?style=social)
 
-# License
+## License
 
 [![CC0][CC0-badge]][CC0-link]
 
