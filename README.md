@@ -116,5 +116,12 @@ actual floorplan of your home.
 * [awesome-IoT](https://github.com/phodal/awesome-iot) - bis
 * [awesome-home-automation](https://github.com/moodule/awesome-home-automation)
 
+## Other Awesome Lists
+
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [The Warren](https://github.com/torchhound/warren)
+
 ---
 *Compiled, maintained, content (c) 2017-2019 Paul Sokolovsky*
