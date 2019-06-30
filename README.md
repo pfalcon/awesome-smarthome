@@ -1,4 +1,3 @@
-
 # Awesome SmartHome [![Awesome][awesome-badge]][awesome-link]
 
 > :house: A curated list of awesome tools, resources and other shiny thinks for home automation.
@@ -13,27 +12,21 @@ It uses technologies from electronics, computer science, automation and telecomm
 
 # Table of Contents
 
-- [Notable OpenSource Projects](#notable-opensource-projects)
-- [Notable Commercial Systems](#notable-commercial-systems)
-  - [Revolv](#revolv)
-  - [SmartThings](#smartthings)
-  - [Vera](#vera)
-  - [Wink](#wink)
+- [OpenSource Projects](#opensource-projects)
+- [Commercial Systems](#commercial-systems)
 - [Home Automation Services](#home-automation-services)
   - [Voice Assistants](#voice-assistants)
   - [Video Surveillance](#video-surveillance)
 - [Related/useful Services and Software](#related-useful-services-and-software)
-  - [Dashboards](#dashboards)
   - [Floor Plans](#floor-plans)
   - [Related awesome lists](#related-awesome-lists)
   - [Other awesome lists](#other-awesome-lists)
 - [License](#license)
 
-# Notable OpenSource Projects
+# OpenSource Projects
 
 Complete, self-hosted home automation systems with frontend, suitable for
-end users. At least a year in active development, at least 200 commits,
-at least 200 stars.
+end users.
 
 * [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/,
   ![stars](https://img.shields.io/github/stars/home/home.svg?style=social)
@@ -71,61 +64,22 @@ at least 200 stars.
   ![stars](https://img.shields.io/github/stars/hollie/misterhouse.svg?style=social)
   ![Perl Language][perl-badge]
 
-# Notable Commercial Systems
+# Commercial Systems
 
-## Revolv
-
-Was a $300 hub, offering a "lifetime subscription".
-
-Acquired by Nest (Google subsidiary) in October 2014. In April 2016, Nest
-announced that Revolv Hub will cease to operate on May 15, 2016.
-https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_devices
-
-
-## SmartThings
-
-* 2012-08-23 [KickStarter campaign](https://www.kickstarter.com/projects/smartthings/smartthings-make-your-world-smarter)
-  $1.2M/$250K
-* 2014-08-14 [Acquired by Samsung](http://www.samsung.com/us/news/23607)
-  refs: [(1)](http://linuxgizmos.com/samsung-smartthings-pickup-could-mean-new-role-for-tizen/)
-* 2015-01-05 [Hub 2 runs Linux](http://blog.smartthings.com/news/smartthings-updates/new-hub-sensors-optional-services-integrations/)
-  refs: [(1)](http://linuxgizmos.com/gen-2-smartthings-hub-migrates-to-linux/)
-
-Uses Groovy language for (custom) components.
-
-* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com
-  ![stars](https://img.shields.io/github/stars/SmartThingsCommunity/SmartThingsPublic.svg?style=social)
-  ![Groovy Language][groovy-badge]
-
-
-## Vera
-
-Since at least 2008.
-
-Uses Lua, open development support, community ecosystem.
-
-
-## Wink
-
-* Founded in 2014 as a spin-off from invention incubator Quirky.
-* After Quirky went through bankruptcy proceedings, it sold Wink to Flex in 2015.
-* In July 2017, Flex sold Wink to i.am+ for $38.7M.
-
+* [Revolv](https://revolv.com/) - Acquired by [Nest](https://nest.com/)
+* [SmartThings](https://www.smartthings.com/) - Acquired by Samsung, with [open source](https://github.com/SmartThingsCommunity/SmartThingsPublic) components
+* [Vera](https://getvera.com/) - Hub and devices
+* [Wink](https://www.wink.com/) - Central hub
 
 # Home Automation Services
 
 ## Voice Assistants
 
-Previously, government and mob had to break into your house to install bugs.
-Now you can pay a small amount of money and install yourself bugs which allow
-3rd parties to eavesdrop on you.
+* [Apple Siri](https://www.apple.com/siri/)
+* [Amazon Alexa](https://developer.amazon.com/en/alexa)
+* [Google Assistant](https://assistant.google.com/)
 
-* Apple Siri
-* Amazon Alexa
-* Google Assistant
-
-OpenSource services promising no eavesdropping (please keep in mind that for
-some of these projects, "OpenSource" is just a marketing bait):
+OpenSource services *promising* no eavesdropping:
 
 * [Mycroft.AI](https://mycroft.ai/), code: https://github.com/MycroftAI
 * [Snips](https://www.snips.ai/), code: https://github.com/snipsco/
@@ -138,16 +92,8 @@ some of these projects, "OpenSource" is just a marketing bait):
 
 ## Video Surveillance
 
-Many services tout "P2P" in video surveillance, to allow your smartphone to
-connect to your camera - when you're in your home or on another side of the
-world. That's oxymoron of course, there's nothing "point-to-point" in how
-it's implemented. Both your camera and smarphone connect to faraway 3rd-party
-cloud server (this happens even if both in the same home network, 5 meters
-one from another). All video goes via (and thus to) 3rd party of course.
-
 [Mirai Botnet](https://en.wikipedia.org/wiki/Mirai_(malware)) was/is a botnet
 mostly consisting of video cameras controlled by 3rd party.
-
 
 # Related/useful Services and Software
 
