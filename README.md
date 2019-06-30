@@ -147,7 +147,7 @@ control).
   ![JS Language][javascript-badge]
 * Grid Layouts
   * https://github.com/ducksboard/gridster.js - The "default" solution
-    ![stars](https://img.shields.io/github/stars/ducksboard/gridster.svg?style=socia)
+    ![stars](https://img.shields.io/github/stars/ducksboard/gridster.js.svg?style=socia)
     ![JQuery Language][jquery-badge]
   * https://github.com/haltu/muuri - No jQuery dep, no item resize
     ![stars](https://img.shields.io/github/stars/haltu/muuri.svg?style=social)
