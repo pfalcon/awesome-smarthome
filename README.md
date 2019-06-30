@@ -1,3 +1,18 @@
+# Table of Contents
+
+- [Notable OpenSource Projects](#notable-opensource-projects)
+- [Notable Commercial Systems](#notable-commercial-systems)
+  - [Revolv](#revolv)
+  - [SmartThings](#smartthings)
+  - [Vera](#vera)
+  - [Wink](#wink)
+- [Home Automation Services](#home-automation-services)
+  - [Voice Assistants](#voice-assistants)
+  - [Video Surveillance](#video-surveillance)
+- [Related/useful Services and Software](#related-useful-services-and-software)
+  - [Dashboards](#dashboards)
+  - [Floor Plans](#floor-plans)
+
 # Notable OpenSource Projects
 
 Complete, self-hosted home automation systems with frontend, suitable for
