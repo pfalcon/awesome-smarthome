@@ -42,7 +42,7 @@ end users.
   ![stars](https://img.shields.io/github/stars/GladysProject/Gladys.svg?style=social)
   ![JS Language][javascript-badge]
 * [Home Assistant](https://github.com/home-assistant/home-assistant)
-  ![stars](https://img.shields.io/github/stars/home/home.svg?style=social)
+  ![stars](https://img.shields.io/github/stars/home-assistant/home-assistant.svg?style=social)
   ![Python Language][python-badge]
 * [HomeGenie](https://github.com/genielabs/HomeGenie/)
   ![stars](https://img.shields.io/github/stars/genielabs/HomeGenie.svg?style=social)
