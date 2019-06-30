@@ -3,11 +3,10 @@
 Curated list of awesome SmartHome/Home Automation things (focusing on the
 solutions which are open and leaving users in control).
 
-## Notable OpenSource Projects
+## OpenSource Projects
 
 Complete, self-hosted home automation systems with frontend, suitable for
-end users. At least a year in active development, at least 200 commits,
-at least 200 stars.
+end users.
 
 * [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 30551, Language: Python
 * [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3478, Language: Java
@@ -27,7 +26,7 @@ Related awesome lists:
 * [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
 
 
-## Notable Commercial Systems
+## Commercial Systems
 
 ### Revolv
 
