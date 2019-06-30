@@ -1,3 +1,4 @@
+
 # Awesome SmartHome [![Awesome][awesome-badge]][awesome-link]
 
 > :house: A curated list of awesome tools, resources and other shiny thinks for home automation.
@@ -9,6 +10,24 @@ It uses technologies from electronics, computer science, automation and telecomm
 - lighting
 - access control
 - entertainment
+
+# Table of Contents
+
+- [Notable OpenSource Projects](#notable-opensource-projects)
+- [Notable Commercial Systems](#notable-commercial-systems)
+  - [Revolv](#revolv)
+  - [SmartThings](#smartthings)
+  - [Vera](#vera)
+  - [Wink](#wink)
+- [Home Automation Services](#home-automation-services)
+  - [Voice Assistants](#voice-assistants)
+  - [Video Surveillance](#video-surveillance)
+- [Related/useful Services and Software](#related-useful-services-and-software)
+  - [Dashboards](#dashboards)
+  - [Floor Plans](#floor-plans)
+  - [Related awesome lists](#related-awesome-lists)
+  - [Other awesome lists](#other-awesome-lists)
+- [License](#license)
 
 # Notable OpenSource Projects
 
