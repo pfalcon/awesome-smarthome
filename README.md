@@ -72,7 +72,9 @@ https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_device
 
 Uses Groovy language for (custom) components.
 
-* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com, Forks: 27667, Language: Groovy
+* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com
+  ![stars](https://img.shields.io/github/stars/SmartThingsCommunity/SmartThingsPublic.svg?style=social)
+  ![Groovy Language][groovy-badge]
 
 
 ### Vera
