@@ -64,7 +64,9 @@ end users.
   ![stars](https://img.shields.io/github/stars/pimatic/pimatic.svg?style=social)
   ![JS Language][javascript-badge]
 * [Revolv](https://revolv.com/) - Acquired by [Nest](https://nest.com/)
-* [SmartThings](https://www.smartthings.com/) - Acquired by Samsung, with [open source](https://github.com/SmartThingsCommunity/SmartThingsPublic) components
+* [SmartThings](https://github.com/SmartThingsCommunity/SmartThingsPublic) - Acquired by Samsung
+  ![stars](https://img.shields.io/github/stars/SmartThingsCommunity/SmartThingsPublic.svg?style=social)
+  ![Groovy Language][groovy-badge]
 * [Vera](https://getvera.com/)
 * [Wink](https://www.wink.com/)
 
@@ -74,9 +76,14 @@ end users.
 * [Apple Siri](https://www.apple.com/siri/)
 * [Google Assistant](https://assistant.google.com/)
 * [Jasper](https://github.com/jasperproject)
-  ![stars](https://img.shields.io/github/stars/jasperproject/jasper.svg?style=social)
+  ![stars](https://img.shields.io/github/stars/jasperproject/jasper-client.svg?style=social)
+  ![Python Language][python-badge]
 * [Mycroft.AI](https://github.com/MycroftAI)
+  ![stars](https://img.shields.io/github/stars/MycroftAI/mycroft-core.svg?style=social)
+  ![Python Language][python-badge]
 * [Snips](https://github.com/snipsco/)
+  ![stars](https://img.shields.io/github/stars/snipsco/snips-nlu.svg?style=social)
+  ![Python Language][python-badge]
 
 ## Dashboards and Monitoring
 
