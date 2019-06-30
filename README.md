@@ -111,24 +111,6 @@ mostly consisting of video cameras controlled by 3rd party.
 
 # Related/useful Services and Software
 
-## Dashboards
-
-One of the basic tasks of Home Automation is visualization and control.
-Dashboards is a basic way to do that. Dashboard is usually included into
-"full stack" HA systems, but what if you don't like it or need a custom
-one? Note that majority of systems below offer visualization only (no
-control).
-
-* https://github.com/Shopify/dashing - Ruby, 11128 stars, no longer maintained
-  * https://github.com/Smashing/smashing - maintained fork, 1665 stars
-* https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 416 stars
-* https://github.com/allegro/tipboard - Python, 773 stars
-* https://github.com/Freeboard/freeboard - JavaScript, 5416 stars
-* Grid Layouts
-  * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
-  * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
-  * https://github.com/hootsuite/grid (3433 stars)
-
 ## Floor Plans
 
 A step above and beyond dashboards is visualizing what happens where on the
@@ -140,7 +122,20 @@ actual floorplan of your home.
 * https://planner5d.com - Online editor, allows to save/import plan in JSON
   format. Image renders are freemium.
 
-## License
+## Related awesome lists
+
+* [awesome-IoT](https://github.com/HQarroum/awesome-iot)
+* [awesome-IoT](https://github.com/phodal/awesome-iot) - bis
+* [awesome-home-automation](https://github.com/moodule/awesome-home-automation)
+
+## Other Awesome Lists
+
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [The Warren](https://github.com/torchhound/warren)
+
+# License
 
 [![CC0][CC0-badge]][CC0-link]
 
