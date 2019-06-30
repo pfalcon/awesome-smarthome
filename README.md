@@ -1,3 +1,15 @@
+# Awesome SmartHome [![Awesome][awesome-badge]][awesome-link]
+
+> :house: A curated list of awesome tools, resources and other shiny thinks for home automation.
+
+Home automation is the integration of the systems in indoor spaces, to centralize the control and grant autonomy.
+It uses technologies from electronics, computer science, automation and telecommunication on top of the usual systems for:
+- climate
+- security
+- lighting
+- access control
+- entertainment
+
 # Notable OpenSource Projects
 
 Complete, self-hosted home automation systems with frontend, suitable for
@@ -135,5 +147,7 @@ actual floorplan of your home.
 To the extent possible under law, Paul Sokolovsky has waived all copyright
 and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-link]: https://github.com/sindresorhus/awesome
 [CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
