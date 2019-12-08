@@ -63,7 +63,7 @@ Uses Lua, open development support, community ecosystem.
 
 # Home Automation Services
 
-## Voice Assistants
+## Voice/Personal Assistants
 
 Previously, government and mob had to break into your house to install bugs.
 Now you can pay a small amount of money and install yourself bugs which allow
@@ -83,6 +83,8 @@ some of these projects, "OpenSource" is just a marketing bait):
   * Posts: [1](https://medium.com/snips-ai/snips-air-a-private-by-design-open-source-decentralized-voice-assistant-a31e27fb799b)
 * [Jasper](https://jasperproject.github.io/), code: https://github.com/jasperproject
 * [Open Assistant](https://openassistant.org/), code: https://github.com/openassistant
+* [Leon-AI](https://getleon.ai/), code: https://github.com/leon-ai/leon
+* [Olivia-AI](https://olivia-ai.org/), code: https://github.com/olivia-ai/olivia
 
 ## Video Surveillance
 
