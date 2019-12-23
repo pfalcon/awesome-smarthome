@@ -22,6 +22,10 @@ Related awesome lists:
 * [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
 
 
+# Need Inspiration?
+* [CCostan Smart Home](https://github.com/CCOSTAN/Home-AssistantConfig#logo) Site: https://www.vcloudinfo.com, <a href="https://github.com/CCOSTAN/Home-AssistantConfig/stargazers"><img src="https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>, Language: YAML 
+
+
 # Notable Commercial Systems
 
 ## Revolv
