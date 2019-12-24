@@ -101,6 +101,10 @@ mostly consisting of video cameras controlled by 3rd party.
 
 # Related/useful Services and Software
 
+## HA Utilities/Tools
+
+* [HA-Bridge](https://github.com/bwssytems/ha-bridge) - Java app that emulates a Phillips Hue bridge allowing you to connect Harmony, Vera, Nest and API endpoints
+
 ## Dashboards
 
 One of the basic tasks of Home Automation is visualization and control.
