@@ -1,4 +1,9 @@
-# Notable OpenSource Projects
+# Awesome SmartHome
+
+Curated list of awesome SmartHome/Home Automation things (focusing on the
+solutions which are open and leaving users in control).
+
+## Notable OpenSource Projects
 
 Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
@@ -22,9 +27,9 @@ Related awesome lists:
 * [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
 
 
-# Notable Commercial Systems
+## Notable Commercial Systems
 
-## Revolv
+### Revolv
 
 Was a $300 hub, offering a "lifetime subscription".
 
@@ -33,7 +38,7 @@ announced that Revolv Hub will cease to operate on May 15, 2016.
 https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_devices
 
 
-## SmartThings
+### SmartThings
 
 * 2012-08-23 [KickStarter campaign](https://www.kickstarter.com/projects/smartthings/smartthings-make-your-world-smarter)
   $1.2M/$250K
@@ -47,23 +52,23 @@ Uses Groovy language for (custom) components.
 * [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com, Forks: 27667, Language: Groovy
 
 
-## Vera
+### Vera
 
 Since at least 2008.
 
 Uses Lua, open development support, community ecosystem.
 
 
-## Wink
+### Wink
 
 * Founded in 2014 as a spin-off from invention incubator Quirky.
 * After Quirky went through bankruptcy proceedings, it sold Wink to Flex in 2015.
 * In July 2017, Flex sold Wink to i.am+ for $38.7M.
 
 
-# Home Automation Services
+## Home Automation Services
 
-## Voice/Personal Assistants
+### Voice/Personal Assistants
 
 Previously, government and mob had to break into your house to install bugs.
 Now you can pay a small amount of money and install yourself bugs which allow
@@ -86,7 +91,7 @@ some of these projects, "OpenSource" is just a marketing bait):
 * [Leon-AI](https://getleon.ai/), code: https://github.com/leon-ai/leon
 * [Olivia-AI](https://olivia-ai.org/), code: https://github.com/olivia-ai/olivia
 
-## Video Surveillance
+### Video Surveillance
 
 Many services tout "P2P" in video surveillance, to allow your smartphone to
 connect to your camera - when you're in your home or on another side of the
@@ -99,9 +104,9 @@ one from another). All video goes via (and thus to) 3rd party of course.
 mostly consisting of video cameras controlled by 3rd party.
 
 
-# Related/useful Services and Software
+## Related/useful Services and Software
 
-## Dashboards
+### Dashboards
 
 One of the basic tasks of Home Automation is visualization and control.
 Dashboards is a basic way to do that. Dashboard is usually included into
@@ -119,7 +124,7 @@ control).
   * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
   * https://github.com/hootsuite/grid (3433 stars)
 
-## Floor Plans
+### Floor Plans
 
 A step above and beyond dashboards is visualizing what happens where on the
 actual floorplan of your home.
