@@ -132,4 +132,7 @@ actual floorplan of your home.
 
 
 ---
-*Compiled, maintained, content (c) 2017-2019 Paul Sokolovsky*
+*Compiled, maintained, content (c) 2017-2020 Paul Sokolovsky*
+
+*Released under
+[Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).*
