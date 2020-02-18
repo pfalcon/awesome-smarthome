@@ -39,7 +39,8 @@ at least 200 stars.
 * [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/
   ![stars](https://img.shields.io/github/stars/jeedom/core.svg?style=social)
   ![PHP Language][php-badge]
-* [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 19211
+* [FHEM](https://github.com/fhem/fhem-mirror) Site: https://fhem.de/
+  ![stars](https://img.shields.io/github/commit-activity/month/fhem/fhem-mirror.svg?style=social)
   ![Perl Language][perl-badge]
 * [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/
   ![stars](https://img.shields.io/github/stars/hollie/misterhouse.svg?style=social)
@@ -107,14 +108,20 @@ OpenSource services promising no eavesdropping (please keep in mind that for
 some of these projects, "OpenSource" is just a marketing bait):
 
 * [Mycroft.AI](https://mycroft.ai/), code: https://github.com/MycroftAI
+  ![stars](https://img.shields.io/github/stars/MycroftAI/mycroft-core.svg?style=social)
 * [Snips](https://www.snips.ai/), code: https://github.com/snipsco/
+  ![stars](https://img.shields.io/github/stars/snipsco/snips-nlu.svg?style=social)
   * Some links point to https://github.com/snipsco/snips-platform , which isn't available.
     https://github.com/snipsco/snips-issues/issues/25
   * Posts: [1](https://medium.com/snips-ai/snips-air-a-private-by-design-open-source-decentralized-voice-assistant-a31e27fb799b)
 * [Jasper](https://jasperproject.github.io/), code: https://github.com/jasperproject
+  ![stars](https://img.shields.io/github/stars/jasperproject/jasper-client.svg?style=social)
 * [Open Assistant](https://openassistant.org/), code: https://github.com/openassistant
+  ![stars](https://img.shields.io/github/stars/openassistant/oa-core.svg?style=social)
 * [Leon-AI](https://getleon.ai/), code: https://github.com/leon-ai/leon
+  ![stars](https://img.shields.io/github/stars/leon-ai/leon.svg?style=social)
 * [Olivia-AI](https://olivia-ai.org/), code: https://github.com/olivia-ai/olivia
+  ![stars](https://img.shields.io/github/stars/olivia-ai/olivia.svg?style=social)
 
 ### Video Surveillance
 
