@@ -40,7 +40,7 @@ at least 200 stars.
   ![stars](https://img.shields.io/github/stars/jeedom/core.svg?style=social)
   ![PHP Language][php-badge]
 * [FHEM](https://github.com/fhem/fhem-mirror) Site: https://fhem.de/
-  ![stars](https://img.shields.io/github/commit-activity/month/fhem/fhem-mirror.svg?style=social)
+  ![activity](https://img.shields.io/github/commit-activity/m/fhem/fhem-mirror.svg?style=social)
   ![Perl Language][perl-badge]
 * [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/
   ![stars](https://img.shields.io/github/stars/hollie/misterhouse.svg?style=social)
