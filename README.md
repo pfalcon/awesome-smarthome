@@ -9,39 +9,39 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/,
-  ![stars](https://img.shields.io/github/stars/home-assistant/home-assitant.svg?style=social)
+* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/
+  ![stars](https://img.shields.io/github/stars/home-assistant/home-assistant.svg?style=social)
   ![Python Language][python-badge]
-* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/,
+* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/
   ![stars](https://img.shields.io/github/stars/openhab/openhab-distro.svg?style=social)
   ![Java Language][java-badge]
 * [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/
   ![stars](https://img.shields.io/github/stars/domoticz/domoticz.svg?style=social)
   ![C++ Language][cplusplus-badge]
-* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/,
+* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/
   ![stars](https://img.shields.io/github/stars/GladysProject/Gladys.svg?style=social)
   ![JS Language][javascript-badge]
-* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/,
+* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/
   ![stars](https://img.shields.io/github/stars/pimatic/pimatic.svg?style=social)
   ![JS Language][javascript-badge]
-* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/,
+* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/
   ![stars](https://img.shields.io/github/stars/sergejey/majordomo.svg?style=social)
   ![PHP Language][php-badge]
-* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/,
+* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/
   ![stars](https://img.shields.io/github/stars/freedomotic/freedomotic.svg?style=social)
   ![Java Language][java-badge]
-* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/,
+* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/
   ![stars](https://img.shields.io/github/stars/genielabs/HomeGenie.svg?style=social)
   ![C# Language][csharp-badge]
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/,
   ![stars](https://img.shields.io/github/stars/pilight/pilight.svg?style=social)
   ![C Language][c-badge]
-* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/,
+* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/
   ![stars](https://img.shields.io/github/stars/jeedom/core.svg?style=social)
   ![PHP Language][php-badge]
 * [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 19211
   ![Perl Language][perl-badge]
-* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/,
+* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/
   ![stars](https://img.shields.io/github/stars/hollie/misterhouse.svg?style=social)
   ![Perl Language][perl-badge]
 
@@ -139,22 +139,22 @@ Dashboards is a basic way to do that. Dashboard is usually included into
 one? Note that majority of systems below offer visualization only (no
 control).
 
-* https://github.com/Shopify/dashing - Ruby,
-  ![stars](https://img.shields.io/github/stars/Shopify/dashing.svg?style=social), no longer maintained
-  * https://github.com/Smashing/smashing - maintained fork,
+* https://github.com/Shopify/dashing - Ruby, no longer maintained
+  ![stars](https://img.shields.io/github/stars/Shopify/dashing.svg?style=social)
+  * https://github.com/Smashing/smashing - maintained fork
     ![stars](https://img.shields.io/github/stars/Smashing/smashing.svg?style=social)
 * https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 
   ![stars](https://img.shields.io/github/stars/evolvedlight/pydashie.svg?style=social)
   ![Python Language][python-badge]
-* https://github.com/allegro/tipboard -
+* https://github.com/allegro/tipboard 
   ![stars](https://img.shields.io/github/stars/allegro/tipboard.svg?style=social)
   ![Python Language][python-badge]
-* https://github.com/Freeboard/freeboard -
+* https://github.com/Freeboard/freeboard 
   ![stars](https://img.shields.io/github/stars/Freeboard/freeboard.svg?style=social)
   ![JS Language][javascript-badge]
 * Grid Layouts
   * https://github.com/ducksboard/gridster.js - The "default" solution
-    ![stars](https://img.shields.io/github/stars/ducksboard/gridster.svg?style=socia)
+    ![stars](https://img.shields.io/github/stars/ducksboard/gridster.js.svg?style=socia)
     ![JQuery Language][jquery-badge]
   * https://github.com/haltu/muuri - No jQuery dep, no item resize
     ![stars](https://img.shields.io/github/stars/haltu/muuri.svg?style=social)
