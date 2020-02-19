@@ -42,12 +42,12 @@ Related awesome lists:
 
 OpenSource services *promising* no eavesdropping:
 
-* [Mycroft.AI](https://mycroft.ai/), code: https://github.com/MycroftAI
-* [Snips](https://www.snips.ai/), code: https://github.com/snipsco/
-* [Jasper](https://jasperproject.github.io/), code: https://github.com/jasperproject
-* [Open Assistant](https://openassistant.org/), code: https://github.com/openassistant
-* [Leon-AI](https://getleon.ai/), code: https://github.com/leon-ai/leon
-* [Olivia-AI](https://olivia-ai.org/), code: https://github.com/olivia-ai/olivia
+* [Mycroft.AI](https://github.com/MycroftAI) Site: https://mycroft.ai/
+* [Snips](https://github.com/snipsco/) Site: https://www.snips.ai/
+* [Jasper](https://github.com/jasperproject) Site: https://jasperproject.github.io/
+* [Open Assistant](https://github.com/openassistant) Site: https://openassistant.org/
+* [Leon-AI](https://github.com/leon-ai/leon) Site: https://getleon.ai/
+* [Olivia-AI](https://github.com/olivia-ai/olivia) Site: https://olivia-ai.org/
 
 ### Video Surveillance
 
@@ -63,25 +63,25 @@ Dashboards is a basic way to do that. Dashboard is usually included into
 "full stack" HA systems, but what if you don't like it or need a custom
 one?
 
-* https://github.com/Shopify/dashing - Ruby, 11128 stars, no longer maintained
-  * https://github.com/Smashing/smashing - maintained fork, 1665 stars
-* https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 416 stars
-* https://github.com/allegro/tipboard - Python, 773 stars
-* https://github.com/Freeboard/freeboard - JavaScript, 5416 stars
+* [Dashing](https://github.com/Shopify/dashing) no longer maintained , Stars: 11128, Language: Ruby
+  * [Smashing](https://github.com/Smashing/smashing) maintained fork, Stars: 1665, Language: Ruby
+* [PyDashie](https://github.com/evolvedlight/pydashie) "Port of Dashing to Python", Stars: 416, Language: Python
+* [Tipboard](https://github.com/allegro/tipboard) Stars: 773, Language: Python
+* [Freeboard](https://github.com/Freeboard/freeboard) Stars: 5416, Language: JavaScript
 * Grid Layouts
-  * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
-  * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
-  * https://github.com/hootsuite/grid (3433 stars)
+  * [Gridster](https://github.com/ducksboard/gridster.js) The "default" solution, jQuery plugin, Stars: 6188, Language: Javascript
+  * [Muuri](https://github.com/haltu/muuri) No jQuery dep, no item resize, Stars: 7832, Language: Javascript
+  * [GridList](https://github.com/hootsuite/grid) Stars: 3433 stars, Language: Javascript
 
 ### Floor Plans
 
 A step above and beyond dashboards is visualizing what happens where on the
 actual floorplan of your home.
 
-* [ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplans for Home Assistant
+* [Floorplan](https://github.com/pkozul/ha-floorplan) - Floorplans for Home Assistant
 * [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - Open Source
-  desktop application (Java)
-* https://planner5d.com - Online editor, allows to save/import plan in JSON
+  desktop application, Language: Java
+* [Planner5d](https://planner5d.com) Online editor, allows to save/import plan in JSON
   format. Image renders are freemium.
 
 
