@@ -22,10 +22,6 @@ at least 200 stars.
 * [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 20813, Language: Perl
 * [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 216, Language: Perl
 
-Related awesome lists:
-
-* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
-
 
 ## Notable Commercial Systems
 
