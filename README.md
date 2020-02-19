@@ -3,6 +3,21 @@
 Curated list of awesome SmartHome/Home Automation things (focusing on the
 solutions which are open and leaving users in control).
 
+## Table of Contents
+
+- [Notable OpenSource Projects](#notable-opensource-projects)
+- [Notable Commercial Systems](#notable-commercial-systems)
+  - [Revolv](#revolv)
+  - [SmartThings](#smartthings)
+  - [Vera](#vera)
+  - [Wink](#wink)
+- [Home Automation Services](#home-automation-services)
+  - [Voice/Personal Assistants](#voice-personal-assistants)
+  - [Video Surveillance](#video-surveillance)
+- [Related/Useful Services and Software](#related-useful-services-and-software)
+  - [Dashboards](#dashboards)
+  - [Floor Plans](#floor-plans)
+
 ## Notable OpenSource Projects
 
 Complete, self-hosted home automation systems with frontend, suitable for
