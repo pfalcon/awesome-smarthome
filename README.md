@@ -135,6 +135,12 @@ actual floorplan of your home.
 * https://planner5d.com - Online editor, allows to save/import plan in JSON
   format. Image renders are freemium.
 
+### Related Awesome Lists
+
+* [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)
+* [awesome-IoT](https://github.com/HQarroum/awesome-iot)
+* [awesome-IoT](https://github.com/phodal/awesome-iot) - bis
+* [awesome-voice-apps](https://github.com/jovotech/awesome-voice-apps)
 
 ---
 *Compiled, maintained, content (c) 2017-2020 Paul Sokolovsky*
