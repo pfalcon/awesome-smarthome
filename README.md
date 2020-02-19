@@ -1,4 +1,4 @@
-# Awesome SmartHome
+# Awesome SmartHome [![Awesome][awesome-badge]][awesome-link]
 
 Curated list of awesome SmartHome/Home Automation things (focusing on the
 solutions which are open and leaving users in control).
@@ -141,3 +141,6 @@ actual floorplan of your home.
 
 *Released under
 [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-link]: https://github.com/sindresorhus/awesome
