@@ -1,6 +1,6 @@
 # Awesome SmartHome
 
-> :house: Curated list of awesome SmartHome/Home Automation things.
+> :house: Curated list of awesome [SmartHome/Home Automation][wikipedia-link] things.
 
 Focusing on open technologies and solutions leaving users in control.
 
@@ -142,3 +142,5 @@ actual floorplan of your home.
 
 *Released under
 [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+[wikipedia-link]: https://en.wikipedia.org/wiki/Home_automation
