@@ -29,14 +29,6 @@ Related awesome lists:
 
 ## Notable Commercial Systems
 
-### Revolv
-
-Was a $300 hub, offering a "lifetime subscription".
-
-Acquired by Nest (Google subsidiary) in October 2014. In April 2016, Nest
-announced that Revolv Hub will cease to operate on May 15, 2016.
-https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_devices
-
 
 ### SmartThings
 
