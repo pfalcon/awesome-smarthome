@@ -1,7 +1,8 @@
 # Awesome SmartHome
 
-Curated list of awesome SmartHome/Home Automation things (focusing on the
-solutions which are open and leaving users in control).
+> :house: Curated list of awesome SmartHome/Home Automation things.
+
+Focusing on open technologies and solutions leaving users in control.
 
 ## Notable OpenSource Projects
 
