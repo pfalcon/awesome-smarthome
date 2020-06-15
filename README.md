@@ -23,18 +23,18 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 30551, Language: Python
-* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3478, Language: Java
-* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 2386, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 1308, Language: JavaScript
-* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 569, Language: JavaScript
-* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 329, Language: PHP
-* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 313, Language: Java
-* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 297, Language: C#
-* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 257, Language: C
-* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 292, Language: PHP
-* [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 20813, Language: Perl
-* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 216, Language: Perl
+* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 33721 Language: Python
+* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3477, Language: Java
+* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 2696, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 1370, Language: JavaScript
+* [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 577, Language: JavaScript
+* [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 339, Language: PHP
+* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 325, Language: Java
+* [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 302, Language: C#
+* [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 264, Language: C
+* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 310, Language: PHP
+* [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 22082, Language: Perl
+* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 217, Language: Perl
 
 Related awesome lists:
 
