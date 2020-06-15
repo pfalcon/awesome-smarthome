@@ -23,13 +23,14 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 30551, Language: Python
-* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3478, Language: Java
-* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 2386, Language: C++
+* [Home Assistant](https://github.com/home-assistant/home-assistant) Site: https://home-assistant.io/, Stars: 33700, Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 2696, Language: C++
+* [Mozilla WebThings Gateway]() Site : https://iot.mozilla.org/gateway/, Stars: 2354, Language: Javascript
 * [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 1308, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 569, Language: JavaScript
 * [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 329, Language: PHP
 * [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 313, Language: Java
+* [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 307, Language: Java
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 297, Language: C#
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 257, Language: C
 * [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 292, Language: PHP
@@ -39,7 +40,6 @@ at least 200 stars.
 Related awesome lists:
 
 * [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
-
 
 ## Notable Commercial Systems
 
