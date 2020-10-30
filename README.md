@@ -80,6 +80,11 @@ Uses Lua, open development support, community ecosystem.
 * In July 2017, Flex sold Wink to i.am+ for $38.7M.
 
 
+### Ring
+
+* 2020-01 [Ring Fired Employees for Watching Customer Videos](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
+
+
 ## Home Automation Services
 
 ### Voice/Personal Assistants
