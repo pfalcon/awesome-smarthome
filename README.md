@@ -140,11 +140,11 @@ control).
 * https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 416 stars
 * https://github.com/allegro/tipboard - Python, 773 stars
 * https://github.com/Freeboard/freeboard - JavaScript, 5416 stars
-* https://github.com/node-red/node-red-dashboard - JavaScript, 1025 stars
 * Grid Layouts
   * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
   * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
   * https://github.com/hootsuite/grid (3433 stars)
+* https://github.com/node-red/node-red-dashboard - JavaScript, 1025 stars
 
 ### Floor Plans
 
