@@ -40,6 +40,7 @@ at least 200 stars.
 Related awesome lists:
 
 * [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
+* [Awesome Node-RED](https://github.com/naimo84/awesome-nodered)
 
 
 ## Notable Commercial Systems
