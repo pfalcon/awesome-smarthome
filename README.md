@@ -35,6 +35,7 @@ at least 200 stars.
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 269, Language: C
 * [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 23387, Language: Perl
 * [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 218, Language: Perl
+* [Node-RED](https://github.com/node-red/node-red) Site: https://nodered.org, Stars: 13696, Language: JavaScript
 
 Related awesome lists:
 
