@@ -35,10 +35,12 @@ at least 200 stars.
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 269, Language: C
 * [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 23387, Language: Perl
 * [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 218, Language: Perl
+* [Node-RED](https://github.com/node-red/node-red) Site: https://nodered.org, Stars: 13696, Language: JavaScript
 
 Related awesome lists:
 
 * [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
+* [Awesome Node-RED](https://github.com/naimo84/awesome-nodered)
 
 
 ## Notable Commercial Systems
@@ -142,6 +144,7 @@ control).
   * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
   * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
   * https://github.com/hootsuite/grid (3433 stars)
+* https://github.com/node-red/node-red-dashboard - JavaScript, 1025 stars
 
 ### Floor Plans
 
