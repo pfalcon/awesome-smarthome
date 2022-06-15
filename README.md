@@ -26,7 +26,7 @@ at least 200 stars.
 * [Home Assistant](https://github.com/home-assistant/core) Site: https://home-assistant.io/, Stars: 39187 Language: Python
 * [openHAB](https://github.com/openhab) Site: http://www.openhab.org/, Stars: 3484, Language: Java
 * [Domoticz](https://github.com/domoticz/domoticz) Site: http://www.domoticz.com/, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 1573, Language: JavaScript
+* [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysassistant.com/, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 579, Language: JavaScript
 * [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 346, Language: PHP
 * [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 352, Language: Java
@@ -34,7 +34,7 @@ at least 200 stars.
 * [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 327, Language: PHP
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 269, Language: C
 * [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 23387, Language: Perl
-* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 218, Language: Perl
+* [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.sourceforge.net/, Stars: 218, Language: Perl
 
 Related awesome lists:
 
@@ -58,7 +58,7 @@ https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_device
   $1.2M/$250K
 * 2014-08-14 [Acquired by Samsung](http://www.samsung.com/us/news/23607)
   refs: [(1)](http://linuxgizmos.com/samsung-smartthings-pickup-could-mean-new-role-for-tizen/)
-* 2015-01-05 [Hub 2 runs Linux](http://blog.smartthings.com/news/smartthings-updates/new-hub-sensors-optional-services-integrations/)
+* 2015-01-05 [Hub 2 runs Linux](https://blog.smartthings.com/smartthings-updates/new-hub-sensors-optional-services-integrations/)
   refs: [(1)](http://linuxgizmos.com/gen-2-smartthings-hub-migrates-to-linux/)
 
 Uses Groovy language for (custom) components.
@@ -141,7 +141,7 @@ control).
 * Grid Layouts
   * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
   * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
-  * https://github.com/hootsuite/grid (3433 stars)
+  * https://github.com/hootsuite/grid (3433 stars, no longer maintained)
 
 ### Floor Plans
 
