@@ -155,6 +155,10 @@ actual floorplan of your home.
   format. Image renders are freemium.
 
 
+### Media Control
+
+* [smartest-tv](https://github.com/Hybirdss/smartest-tv) - CLI for playing Netflix episodes, YouTube videos, and Spotify music on smart TVs by name. Deep links content to LG, Samsung, Android TV, and Roku. (Python, 400+ stars)
+
 ---
 *Compiled, maintained, content (c) 2017-2021 Paul Sokolovsky*
 
