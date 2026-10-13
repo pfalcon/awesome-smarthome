@@ -31,7 +31,7 @@ at least 200 stars.
 * [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 346, Language: PHP
 * [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 352, Language: Java
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 313, Language: C#
-* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 327, Language: PHP
+* [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/, Stars: 327, Language: PHP
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 269, Language: C
 * [FHEM](https://github.com/mhop/fhem-mirror) Site: https://fhem.de/, Revisions: 23387, Language: Perl
 * [MisterHouse](https://github.com/hollie/misterhouse) Site: http://misterhouse.net/, Stars: 218, Language: Perl
@@ -106,9 +106,8 @@ some of these projects, "OpenSource" is just a marketing bait):
     https://github.com/snipsco/snips-issues/issues/25
   * Posts: [1](https://medium.com/snips-ai/snips-air-a-private-by-design-open-source-decentralized-voice-assistant-a31e27fb799b)
 * [Jasper](https://jasperproject.github.io/), code: https://github.com/jasperproject
-* [Open Assistant](https://openassistant.org/), code: https://github.com/openassistant
+* [Open Assistant](https://github.com/openassistant)
 * [Leon-AI](https://getleon.ai/), code: https://github.com/leon-ai/leon
-* [Olivia-AI](https://olivia-ai.org/), code: https://github.com/olivia-ai/olivia
 
 ### Video Surveillance
 
@@ -141,7 +140,6 @@ control).
 * Grid Layouts
   * https://github.com/ducksboard/gridster.js - The "default" solution, jQuery plugin (6188 stars)
   * https://github.com/haltu/muuri - No jQuery dep, no item resize (7832 stars)
-  * https://github.com/hootsuite/grid (3433 stars)
 
 ### Floor Plans
 
