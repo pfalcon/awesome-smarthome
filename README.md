@@ -29,7 +29,7 @@ at least 200 stars.
 * [Gladys](https://github.com/GladysProject/Gladys) Site: https://gladysproject.com/, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) Site: https://pimatic.org/, Stars: 579, Language: JavaScript
 * [MajorDoMo](https://github.com/sergejey/majordomo) Site: http://majordomohome.com/, Stars: 346, Language: PHP
-* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: http://freedomotic.com/, Stars: 352, Language: Java
+* [Freedomotic](https://github.com/freedomotic/freedomotic) Site: https://www.freedomotic-platform.com/, Stars: 352, Language: Java
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) Site: http://homegenie.it/, Stars: 313, Language: C#
 * [Jeedom](https://github.com/jeedom/core) Site: https://www.jeedom.com/site/en/, Stars: 327, Language: PHP
 * [pilight](https://github.com/pilight/pilight) Site: https://www.pilight.org/, Stars: 269, Language: C
@@ -63,7 +63,7 @@ https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_device
 
 Uses Groovy language for (custom) components.
 
-* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com, Forks: 27667, Language: Groovy
+* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) Site: http://docs.smartthings.com (dead — Samsung retired the classic docs; the local-first counter-story: [LEDVANCE's 116 Matter lights under Home Assistant, no cloud](https://calder-brief.pages.dev/ledvance-116-matter-devices-home-assistant.html)), Forks: 27667, Language: Groovy
 
 
 ### Vera
